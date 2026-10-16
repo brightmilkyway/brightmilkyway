@@ -7,7 +7,7 @@ My work explores how literary and interactive worlds can be **represented, model
 
 ## Current Work
 
-### White Noise Poem / 白噪诗
+### Aether Poem / 白噪诗
 
 A research and development project exploring the intersection of **AI, TTRPG, interactive narrative, and literary computing**.
 
