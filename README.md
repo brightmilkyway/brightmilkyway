@@ -1,5 +1,4 @@
-## Hi there 👋
-
+# Hi there 👋
 # Yuhao Yuan
 
 I’m an undergraduate researcher and builder at Nankai University working across **digital humanities, computational literary studies, AI, and narrative systems**.
