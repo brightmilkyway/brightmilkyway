@@ -1,59 +1,30 @@
-# Hi there 👋
-
 # Yuhao Yuan
 
-I’m an undergraduate researcher and builder at Nankai University working at the intersection of **digital humanities, computational literary studies, AI, and narrative systems**.
+Undergraduate researcher in English at Nankai University; founder and project lead of [Aether Poem / 白噪诗](https://github.com/aether-poem).
 
-My work explores how literary and interactive worlds can be **represented, modelled, generated, and interpreted computationally**. I’m particularly interested in **narrative and event modelling, interactive narrative, literary adaptation, and human–AI collaboration**.
+I work in digital humanities and computational literary studies. My central methodological question is how claims about texts and reading can be operationalized, how evidence is preserved through computational steps, and how results return to humanistic interpretation.
 
-## Current Work
+## Aether Poem / 白噪诗
 
-### Aether Poem / 白噪诗
+A student-led research and creative team exploring how literary materials can become reviewable, runnable interactive narratives.
 
-A research and development project exploring the intersection of **AI, TTRPG, interactive narrative, and literary computing**.
+- **Narrative Forge** structures source material into modules.
+- **Backend Core** manages sessions, state and events; the **QQ Bot** connects group play.
+- AI-generated proposals are checked against explicit rules and reviewed by a GM before narrative commits. Player action outcomes follow the selected rules and are recorded as events.
+- The tools are in development. Testing is by invitation; there is no public self-service instance.
 
-> 于白噪中写诗 ｜ 探索 AI、TRPG、叙事与文学计算的前沿
+## Selected research and work
 
-The project connects literary materials with **structured world representations, rule-grounded interaction, persistent world state, event-sourced records, and human–AI collaboration**. I work across literary adaptation, narrative systems engineering, and the design of computational tools for play and interpretation.
+- **Authorship judgments of AI imitations of *The Waste Land*.** An experiment with 40 participants on how reading strategies affect judgments of AI-generated literary imitations. Accepted by 《比较文学与跨文化研究》; forthcoming, not yet published.
+- **“Living Again in One Post: Coding Attitude in Xiaohongshu Time-Reset Discourse.”** Submitted to *Open Linguistics*. The submission system still showed **With Editor** on 2026-11-05; it had not entered external review at that check.
+- **Cross-boundary migration of online literary experience.** Contributed to a corpus project involving 764 Xiaohongshu posts and 6,004 comments, with Python-based collection and preprocessing, BERTopic and a knowledge-graph research framework.
+- **Literary TRPG adaptation of James Joyce’s *The Dead*.** A paper and project showcase were presented at the 2026 Chinese Digital Humanities Annual Conference (CDH 2026).
+- [**Computational literary-form experiments**](https://github.com/brightmilkyway/literary-form-discovery-research): open, reproducible experiments that preserve failures and limitations.
 
-**Organization:** `aether-poem`
+## Archived research direction
 
-### Text World Model
+Text World Model (TWM) is temporarily paused and archived (2026-11). It is not active work.
 
-An ongoing research project on **computationally modelling narrative worlds and their dynamics**.
+## Research interests
 
-I’m exploring how interaction histories can be represented as changes in **world states, belief states, and narratively meaningful events**, with particular attention to **uncertainty, temporal structure, and formal evaluation**. Current work includes a dataset of **41,631 records** and experiments in modelling possible state transitions.
-
-### Event-Oriented Literary Modeling
-
-My undergraduate research explores how **literary events can be individuated, represented, and annotated** across temporal, causal, and modal dimensions.
-
-The project connects **narratology, event semantics, annotation science, knowledge representation, NLP, and computational literary studies**, with the goal of developing more explicit computational representations of literary events.
-
-## Selected Research
-
-### Cross-Boundary Migration
-
-**Cross-Boundary Migration of Online Literature Experience: Empowering Social Media Content Creation through the Modern Translation of Cultural Symbols**
-
-A project examining how online literary experiences migrate across boundaries into social-media content creation through the translation of cultural symbols. My work included Python-based collection and preprocessing of **764 English-language Xiaohongshu posts and 6,004 comments**, topic modelling with **BERTopic**, and the development of a **knowledge-graph-based research framework**.
-
-### AI-Generated Imitations of *The Waste Land*
-
-An experimental study of **authorship attribution in AI-generated imitations of T. S. Eliot’s *The Waste Land***, examining how readers distinguish human-authored literary text from AI-generated imitation.
-
-**Accepted for publication.**
-
-## Methods & Tools
-
-**Python** · **R** · **SQL** · **NLP** · **BERTopic** · **Knowledge Graphs** · **Topic Modeling** · **Git/GitHub**
-
-## Research Interests
-
-- Digital Humanities
-- Computational Literary Studies
-- Narrative & Event Modeling
-- Interactive Narrative
-- AI & Literature
-- TTRPG and Literary Adaptation
-- Computational Interpretation
+Digital humanities · computational literary studies · narrative and event modeling · evidence and annotation · interactive narrative · AI and literature · literary TRPG adaptation
